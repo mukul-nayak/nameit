@@ -1,3 +1,7 @@
+# Name It
+"Name It" is a simple react application that allows users to search for a cool name for their next project/startup.
+### Deployed @ https://mukul-nayak.github.io/nameit/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
