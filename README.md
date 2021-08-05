@@ -1,5 +1,6 @@
 # Name It
-"Name It" is a simple react application that allows users to search for a cool name for their next project/startup.
+"Name It" is a simple react application that allows users to search for a cool name for their next project/startup. <br> <br>
+Do you find it difficult to name your projects or ventures? Fear not! Check out this cool name suggestion application which will help you find the best name for your next project, venture, or startup. Keep building!
 ### Deployed @ https://mukul-nayak.github.io/nameit/
 
 # Getting Started with Create React App
